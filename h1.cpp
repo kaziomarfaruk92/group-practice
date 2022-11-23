@@ -1,2 +1,2 @@
-#include<local-kazi-changed>
+#include<kazi-changed>
 
