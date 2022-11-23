@@ -1,1 +1,1 @@
-#include<local-kazi-local>
+#include<local-kazi-remote>
